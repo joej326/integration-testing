@@ -2,6 +2,7 @@ import { VoterComponent } from './voter.component';
 import { TestBed, ComponentFixture } from '@angular/core/testing';
 import { By } from '@angular/platform-browser';
 
+
 describe('VoterComponent', () => {
 
   let component: VoterComponent;
